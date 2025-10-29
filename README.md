@@ -1,4 +1,4 @@
-<img width="1358" height="608" alt="Screenshot 2025-10-29 140754" src="https://github.com/user-attachments/assets/f275f899-60b3-4f10-9e8e-dde6eec52cab" /># 🎯 ChainGuess - Provably Fair Number Guessing Game
+
 
 Welcome to **ChainGuess**, a simple and beginner-friendly **Solidity smart contract** game built on the **Celo Sepolia Testnet**.  
 Players can guess a random number, test their luck, and win double their bet if they guess correctly.  
